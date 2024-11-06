@@ -85,25 +85,25 @@ function Index() {
                             <img className="w-full h-full" src="/images/home/1.jpg" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3 mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/2.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/2.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/3.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/3.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/4.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/4.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/5.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/5.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3 mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/6.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/6.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/7.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/7.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/8.jpg" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/8.JPG" alt="" />
                         </div>
                     </div>
                 </div>
