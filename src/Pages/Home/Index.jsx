@@ -100,7 +100,7 @@ function Index() {
                             <img className="w-full h-full home-images" src="/images/home/6.JPG" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
-                            <img className="w-full h-full home-images" src="/images/home/7.JPG" alt="" />
+                            <img className="w-full h-full home-images" src="/images/home/7.jpg" alt="" />
                         </div>
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
                             <img className="w-full h-full home-images" src="/images/home/8.JPG" alt="" />
