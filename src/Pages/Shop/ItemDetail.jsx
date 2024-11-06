@@ -36,21 +36,21 @@ function ItemDetail() {
         <div className="item-detail-container flex flex-col items-center justify-center">
             <div className="w-[80%] grid grid-cols-12 mt-40">
                 <div className="col-span-12 lg:col-span-6">
-                    <div className="image-section">
+                    <div className="image-section w-full flex flex-col items-center justify-center">
                         <img src={`/products/${filename}`} alt="Selected Product" className="w-[80%] item-image h-[500px]" />
                     </div>
                 </div>
                 <div className="col-span-12 lg:col-span-6">
-                    <div className="form-section mt-5">
+                    <div className="form-section mt-5 flex flex-col justify-center items-center md:items-start w-full">
                         <h2 className="text-[30px] font-medium">Purchase Item</h2>
-                        <form ref={form} className="purchase-form" onSubmit={handleSubmit}>
-                            <div>
+                        <form ref={form} className="purchase-form w-full" onSubmit={handleSubmit}>
+                            <div className="w-full">
                                 <input type="text" id="name" placeholder="Name..." name="name" className="item-inputs" required />
                             </div>
-                            <div>
+                            <div className="w-full">
                                 <input type="email" id="email" placeholder="Email..." name="email" className="item-inputs" required />
                             </div>
-                            <div>
+                            <div className="w-full">
                                 <input type="text" id="address" placeholder="Phone Number..." name="address" className="item-inputs" required />
                             </div>
                             <button type="submit" className="shop-buttons mt-5">Submit</button>
