@@ -1,0 +1,28 @@
+.shop-buttons{
+    padding: 10px 20px;
+    // background-color: rgb(255, 237, 240);
+    border: 2px solid rgb(171, 31, 31);
+    margin-top: px;
+    font-weight: 500;
+}
+.shop-items-containers{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.item-image{
+    object-fit: cover;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.item-inputs{
+    padding: 20px 10px;
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-top: 10px ;
+}
+
+.hr-shop{
+    height: 2px;
+    background-color: rgb(218, 218, 218);
+    width: 70%;
+}

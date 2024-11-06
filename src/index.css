@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'florisa';
+  src: url('./fonts/florisa/Florisa-PersonalUse.otf') format('opentype');
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Raleway';
+}
+
+.florisa{
+  font-family: 'florisa';
+}
+.color-pink{
+  color: pink;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #080808;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: black;
+   border: 2px #121212 solid ;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+nav{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-color: white;
+  z-index: 99;
+}
