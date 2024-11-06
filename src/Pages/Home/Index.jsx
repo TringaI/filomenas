@@ -28,7 +28,7 @@ function Index() {
         <div className="w-full flex flex-col justify-center items-center">
             <div className="banner w-full h-[100vh] flex flex-col justify-center items-center fade-in" ref={(el) => elementsToFadeIn.current.push(el)}>
                 <h1 className="text-white  text-[9vw] lg:text-[7vw] text-center">Filomena's <b className="color-pink">Flowers</b></h1>
-                <p className="text-white text-[3.5vw] lg:text-[2.7vw]"><i>Your fairy tale destination</i></p>
+                <p className="text-white text-[4vw] lg:text-[2.7vw]"><i>Your fairy tale destination</i></p>
             </div>
 
 
