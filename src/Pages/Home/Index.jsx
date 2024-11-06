@@ -78,7 +78,7 @@ function Index() {
 
             <div className="w-full flex flex-col justify-center items-center mt-20 gallery">
                 <div className="w-[80%] md:w-[80%] lg:w-[60%]">
-                    <h1 className="text-[40px]">Gallery</h1>
+                    <h1 className="text-[40px] mt-10 md:mt-0">Gallery</h1>
                     <hr className="mt-2 mb-2 home-hr" />
                     <div className="w-full grid grid-cols-12 md:gap-10">
                         <div className="col-span-12 md:col-span-4 lg:col-span-3  mt-5">
